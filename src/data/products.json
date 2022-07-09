@@ -1,0 +1,27 @@
+[
+    {
+      "ID":1,
+      "Name":"shirt-blue",
+      "Description":"best shirt-blue",
+      "Image":"images/products/shirt-blue.jpg"
+   },
+   {
+      "ID":2,
+      "Name":"shirt-green",
+      "Description":"best shirt-green",
+      "Image":"images/products/shirt-green.jpg"
+   },
+   {
+      "ID":3,
+      "Name":"shirt-orange",
+      "Description":"best shirt-orange",
+      "Image":"images/products/shirt-orange.jpg"
+   },
+   {
+      "ID":4,
+      "Name":"shirt-red",
+      "Description":"best shirt-red",
+      "Image":"images/products/shirt-red.jpg"
+   }
+
+ ]
